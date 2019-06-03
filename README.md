@@ -19,3 +19,9 @@ Requerimiento 3:
 ==Completo=
 03062019
 +++
+
+Requerimiento 4:
+-README
+==Completo=
+03062019
++++
