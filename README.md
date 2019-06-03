@@ -1,7 +1,8 @@
 # best-repo-ever
 Requerimiento 1:
--README:Edit
--NOTACLASS:New
+-README
+-NOTACLASS
+-TESTNOTACLASS
 ==Completo==
 03062019
 +++
