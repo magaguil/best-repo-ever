@@ -1,4 +1,14 @@
 # best-repo-ever
-test test test
+Requerimiento 1:
+-README
+-NOTACLASS
+-TESTNOTACLASS
+==Completo==
+03062019
++++
 
-modificado en feature_branchs
+Requerimiento 2:
+-README
+==Completo=
+03062019
++++
