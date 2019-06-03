@@ -12,3 +12,16 @@ Requerimiento 2:
 ==Completo=
 03062019
 +++
+
+Requerimiento 3:
+-README
+-Nota3
+==Completo=
+03062019
++++
+
+Requerimiento 4:
+-README
+==Completo=
+03062019
++++
